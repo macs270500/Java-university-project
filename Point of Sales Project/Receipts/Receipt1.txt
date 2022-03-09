@@ -1,0 +1,7 @@
+Receipt number: 1
+Product Name                                                           | Quantity |Price per unit
+ASUS ROG Gladius II Aura 12K DPI MSE                                   |       11 | 4290.6
+Razer Naga Trinity-Multicolor MMO Gaming Mouse                         |       12 |5599.95
+Coolermaster                                                           |        1 |10999.99
+SanDisk 1TB Extreme Portable SSD                                       |        1 | 9699.0
+                                                                            Total: Rs 135094.99

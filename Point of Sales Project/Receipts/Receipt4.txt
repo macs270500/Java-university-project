@@ -1,0 +1,4 @@
+Receipt number: 4
+Product Name                                                           | Quantity |Price per unit
+Razer Tartarus Pro Gaming Keypad: Analog-Optical Key Switches          |        1 |5900.95
+                                                                            Total: Rs 5900.95

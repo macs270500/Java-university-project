@@ -1,0 +1,4 @@
+Receipt number: 3
+Product Name                                                           | Quantity |Price per unit
+Razer Deathadder V2 - Ergonomic Wired Gaming Mouse                     |        1 |3299.65
+                                                                            Total: Rs 3299.65

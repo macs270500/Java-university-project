@@ -1,0 +1,5 @@
+Receipt number: 2
+Product Name                                                           | Quantity |Price per unit
+ASUS ROG Claymore Blue RGB Mechanical Gaming Keyboard                  |        1 |7899.97
+SanDisk 1TB Extreme Portable SSD                                       |        1 | 9699.0
+                                                                            Total: Rs 17598.97
